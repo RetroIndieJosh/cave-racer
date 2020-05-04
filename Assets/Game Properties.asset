@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75dddf04ee1f29b4192ecd0bace9b3df, type: 3}
+  m_Name: Game Properties
+  m_EditorClassIdentifier: 
+  m_gameName: Cave Racer
+  m_executableName: cave-racer
+  m_versionMajor: 0
+  m_versionMinor: 0
+  m_versionRelease: 1
+  m_bitbucketUrl: 
+  m_readmeFileName: 
+  m_changelogFileName: 
+  m_sceneFolder: Assets
+  m_sceneList:
+  - main
+  m_itchUserNane: joshua-mclean
+  m_itchChannel: cave-racer
